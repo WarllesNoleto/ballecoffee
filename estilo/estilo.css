@@ -11,6 +11,10 @@
     font-weight: 500;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     background: #1F1517;
     color: #FFFFFF;
